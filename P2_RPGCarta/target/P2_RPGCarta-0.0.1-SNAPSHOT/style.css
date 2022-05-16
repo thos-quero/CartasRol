@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;700&family=Nunito:ital,wght@0,400;0,700;1,400&display=swap');
+
+* {
+font-family: 'Barlow Condensed', sans-serif;
+font-family: 'Nunito', sans-serif;
+}
+
+
+#body_p1{
+	background-image:url("imgs/fondo.jpg");
+	background-size:cover;
+	padding:15px;
+	margin: 10px auto;
+	text-align:center;
+	background-color:grey;
+}
+
+#body_p2{
+	background-image:url("imgs/fondo.jpg");
+	background-size:cover;
+	padding:15px;
+	margin: 10px auto;
+	text-align:center;
+	background-color:grey;
+	padding-left:-5px;
+}
+
+#body_p3{
+	background-image:url("imgs/fondo.jpg");
+	background-size:cover;
+	padding:15px;
+	margin: 10px auto;
+	text-align:center;
+	background-color:grey;
+	padding-left:-5px;
+}
+
+#body_p4{
+	background-image:url("imgs/fondo.jpg");
+	background-size:cover;
+	padding:15px;
+	margin: 10px auto;
+	text-align:center;
+	background-color:grey;
+	padding-left:-5px;
+	color:white;
+	
+}
+
+#upper-f{
+	background-color: brown;
+	width:15%;
+	margin-left:42%;
+	padding:5px;
+	border:1px solid gold;
+}
+
+.carta {
+	background-color: gold;
+	width:650px;
+	height:25%;
+	border: 1px solid black;
+	border-radius:5px;
+	font-size:12px;
+}
+.carta img {
+	width:120px;
+}
+
+.btns{
+	background-color:brown;
+	color:gold;
+	
+}
+
+.btna{
+	background-color:brown;
+	width:10%; 
+	height:35px; 
+	color:gold;
+	border-radius:5px;
+	text-decoration:none;
+}
+
+.btna a:link{
+	color:gold;
+	text-decoration:none;
+}
+
+.btna a:visited{
+	color:gold;
+	text-decoration:none;
+}
+
+#hvis{
+	background-color:grey;
+	border-radius:30px;
+	width:30%;
+	margin:0 auto;
+}
+
+#hvis a:visited{
+	text-decoration:none;
+	color:gold;
+}
+#hvis li{
+	list-style-type:none;
+	font-weigth:bold;
+	font-size:20px;
+}
+
+#mainvis{
+	margin:0 auto;
+	display:inline-block;
+	margin:50px;
+}
+
